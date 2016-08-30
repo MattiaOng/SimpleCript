@@ -1,4 +1,4 @@
 SimpleCript
 ===========
 
-A simple example of symmetric criptation and decriptation.
+An example of symmetric criptation and decriptation.
